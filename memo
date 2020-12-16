@@ -1,0 +1,3 @@
+SFのWSDLをVisualStudioに追加する方法
+「追加」→「サービス参照」→「詳細設定」→「Web参照の追加」
+出来上がったコードからListViewRecordColumn[][]をListViewRecordColumn[]へ修正（二箇所）
